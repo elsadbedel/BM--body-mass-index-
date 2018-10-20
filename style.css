@@ -1,0 +1,30 @@
+.box {
+    background: #F5F5F5;
+    width: 640px;
+    height: 800px;
+
+}
+
+#Calculate {
+    position: absolute;
+    bottom: 10px;
+    left: 30px;
+}
+
+.Neticeler {
+    display: inline-block;
+}
+
+.overlay {
+    position: absolute;
+    top: 0px;
+    background: #F5F5F5;
+    width: 640px;
+    height: 800px;
+    z-index: 10;
+    display: none;
+}
+
+h4 {
+    display: inline-block;
+}
